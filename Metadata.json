@@ -1,0 +1,8 @@
+{
+  "name": "Astralane MEV deny list",
+  "symbol": "AMDL",
+  "description": "MEV deny list created by Astralane for Iris MEV protect",
+  "image": "https://astralane.io/images/logo-new.png",
+  "external_url": "https://astralane.io",
+  "attributes": []
+}
